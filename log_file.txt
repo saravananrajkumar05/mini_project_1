@@ -1,0 +1,28 @@
+2025-02-21 19:18:20 - INFO - ETL Process Started !!!
+2025-02-21 19:18:20 - INFO - Started Extracting data from the Files
+2025-02-21 19:18:20 - INFO - Printing the list of files to extract : ['.\\source\\source1.csv', '.\\source\\source1.json', '.\\source\\source1.xml', '.\\source\\source2.csv', '.\\source\\source2.json', '.\\source\\source2.xml', '.\\source\\source3.csv', '.\\source\\source3.json', '.\\source\\source3.xml']
+2025-02-21 19:18:20 - INFO - Extracting CSV file Started :.\source\source1.csv
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source1.csv
+2025-02-21 19:18:20 - INFO - Extracting JSON file Started : .\source\source1.json
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source1.json
+2025-02-21 19:18:20 - INFO - Extracting XML file Started :.\source\source1.xml
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source1.xml
+2025-02-21 19:18:20 - INFO - Extracting CSV file Started :.\source\source2.csv
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source2.csv
+2025-02-21 19:18:20 - INFO - Extracting JSON file Started : .\source\source2.json
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source2.json
+2025-02-21 19:18:20 - INFO - Extracting XML file Started :.\source\source2.xml
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source2.xml
+2025-02-21 19:18:20 - INFO - Extracting CSV file Started :.\source\source3.csv
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source3.csv
+2025-02-21 19:18:20 - INFO - Extracting JSON file Started : .\source\source3.json
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source3.json
+2025-02-21 19:18:20 - INFO - Extracting XML file Started :.\source\source3.xml
+2025-02-21 19:18:20 - INFO - Extraction is Completed for the file .\source\source3.xml
+2025-02-21 19:18:20 - INFO - Transformation Started :
+2025-02-21 19:18:20 - INFO - Converting Height from Inches to Meters 
+2025-02-21 19:18:20 - INFO - Converting Weight from Pounds to Kilograms 
+2025-02-21 19:18:20 - INFO - Transformation Ended :
+2025-02-21 19:18:20 - INFO - Loading the transformed data in to CSV file for future use 
+2025-02-21 19:18:20 - INFO - Succesfully Loaded the data into csv file
+2025-02-21 19:18:20 - INFO - ETL Process Ended !!!
